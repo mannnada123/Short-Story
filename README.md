@@ -11,4 +11,4 @@ Research paper: https://arxiv.org/pdf/2409.13191
 
 medium article: https://medium.com/@mannnada05/revolutionizing-diabetes-care-with-ai-meet-diabetica-2a1c2e41dfd0
 
-video explanation: 
+video explanation: https://youtu.be/bhun01MMQHQ
